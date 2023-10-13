@@ -1,0 +1,9 @@
+Patient1: Severe
+Patient2: Long-covid
+Patient3: Recovered
+
+Sample1
+Sample2
+Sample3
+
+
