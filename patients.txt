@@ -6,4 +6,6 @@ Sample1
 Sample2
 Sample3
 
+All patients recover very well
+
 
