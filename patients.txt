@@ -8,4 +8,6 @@ Sample3
 
 All patients recover very well
 
+Patient2 still has covid
 
+usually we track scripts, images, document files. Commonly not large datafiles
